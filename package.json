@@ -20,5 +20,17 @@
   },
   "devDependencies": {
     "@types/node": "*"
-  }
+  },
+  "description": "[![TestRail API](https://img.shields.io/badge/TestRail%20API-v2-green.svg)](https://www.gurock.com/testrail/docs/api) ![GitHub package version](https://img.shields.io/github/package-json/v/dlenroc/node-testrail-api.svg) ![Dependencies Status](https://img.shields.io/david/dlenroc/node-testrail-api.svg) ![GitHub top language](https://img.shields.io/github/languages/top/dlenroc/node-testrail-api.svg)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dresh/node-testrail-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dresh/node-testrail-api/issues"
+  },
+  "homepage": "https://github.com/dresh/node-testrail-api#readme"
 }

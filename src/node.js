@@ -384,6 +384,7 @@ class TestRail {
 
     if (this.user && this.password) {
       headers.Authorization = `Basic ${btoa(`${this.user}:${this.password}`)}`
+      // console.log('from node.js : headers.Authorization' + headers.Authorization)
     }
 
     if (!formData) {
